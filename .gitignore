@@ -1,0 +1,10 @@
+*.sln
+*.rc
+*.aps
+*vcxproj*
+*.txt
+.vs/
+Debug/
+CreateBinary*
+*.png
+*.docx
